@@ -327,7 +327,7 @@
         {
             "ticket_id": "28",
             "status": "New",
-            "description": "'dragstart' requires setting dataTransfer",
+            "description": "dragstart requires setting dataTransfer",
             "assigned_to": "31",
             "date": "10/11/2022",
             "version": "0.46",
@@ -735,7 +735,7 @@
         {
             "ticket_id": "62",
             "status": "Resolved",
-            "description": "'Close All Windows' missing on macOS",
+            "description": "Close All Windows missing on macOS",
             "assigned_to": "19",
             "date": "10/11/2022",
             "version": "0.47",
